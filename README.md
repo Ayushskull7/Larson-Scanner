@@ -7,8 +7,9 @@ https://www.tinkercad.com/things/diLIbc8ir0x?sharecode=fSJ_iCB9g0YEMY8wzlS8p92dW
 
 Circuit -:
 
-![circuit](https://github.com/Ayushskull7/Larson-Scanner/assets/48235347/36017d37-1053-4c7d-9dd5-f67248246e6e)
+![circuit](https://github.com/Ayushskull7/Larson-Scanner/assets/48235347/dcc6900b-caff-4d56-b65e-2384b9cdb45b)
+
 
 Code -:
 
-<img width="386" alt="code" src="https://github.com/Ayushskull7/Larson-Scanner/assets/48235347/4a34d468-37a9-4d42-a77b-75770f56ebb8">
+<img width="386" alt="code" src="https://github.com/Ayushskull7/Larson-Scanner/assets/48235347/86206987-6c0c-4ebc-ac1d-d2d24ae8e8e7">
